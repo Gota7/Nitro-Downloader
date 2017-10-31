@@ -1,0 +1,5 @@
+Credits:
+ID3 (Tag Editor) - Marc Schoolderman
+Youtube-DL (Youtube Downloader) - Yen Chi Hsuan, Remita Amine, and Sergey M.
+FFmpeg (Converter) - FFmpeg team.
+Nitro Downloader UI - Gota7.

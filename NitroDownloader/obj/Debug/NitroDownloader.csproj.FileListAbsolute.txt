@@ -1,0 +1,16 @@
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\NitroDownloader.exe.config
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\NitroDownloader.exe
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\NitroDownloader.pdb
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\obj\Debug\NitroDownloader.csprojResolveAssemblyReference.cache
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\obj\Debug\NitroDownloader.MainWindow.resources
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\obj\Debug\NitroDownloader.Properties.Resources.resources
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\obj\Debug\NitroDownloader.csproj.GenerateResource.Cache
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\obj\Debug\NitroDownloader.exe
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\obj\Debug\NitroDownloader.pdb
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Tools\ffmpeg.exe
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Tools\ffplay.exe
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Tools\ffprobe.exe
+c:\users\samsp\documents\visual studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Tools\youtube-dl.exe
+C:\Users\samsp\Documents\Visual Studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Credits.txt
+C:\Users\samsp\Documents\Visual Studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Tools\id3.exe
+C:\Users\samsp\Documents\Visual Studio 2017\Projects\NitroDownloader\NitroDownloader\bin\Debug\Tools\COPYING
